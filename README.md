@@ -5,7 +5,7 @@ Clone the repo
 ```
 git clone https://github.com/hanifalisohag/create-aws-lambda-layer-using-docker.git
 
-cd create-aws-lambda-layer-using-docker.git
+cd create-aws-lambda-layer-using-docker
 
 ```
 
